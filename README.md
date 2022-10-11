@@ -1,2 +1,2 @@
-# planStudies
-Create a plan studies of Java 
+# Plano de Estudos
+Criando Plano de estudos Java
